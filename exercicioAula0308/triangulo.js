@@ -6,7 +6,7 @@ if(lado1 === lado2 && lado1 === lado3 && lado2 === lado3){
     alert(`Triângulo informado é do tipo Equilátero.`);
 }else if(lado1 !== lado2 && lado1 !== lado3 && lado2 === lado3){
     alert(`Triângulo informado é do tipo isósceles.`);
-}else if(lado2 !== lado1 && lado2 !== lado1 && lado1 === lado3){
+}else if(lado2 !== lado1 && lado2 !== lado3 && lado1 === lado3){
     alert(`Triângulo informado é do tipo isósceles.`);
 }else if(lado3 !== lado1 && lado3 !== lado2 && lado1 === lado2){
     alert(`Triângulo informado é do tipo isósceles.`);
