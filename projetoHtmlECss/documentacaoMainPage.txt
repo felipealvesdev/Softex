@@ -1,0 +1,17 @@
+--------HTML--------
+
+1º
+    Carrossel precisa fazer um tratamento de imagem antes de colocar no projeto,
+    dependendo do tamanho da imagem, pode haver diferença nas alturas.
+
+
+---------CSS-----------
+
+1º 
+    Padding-top do conteudoPrincipal coincide com o tamanho height do  menuNavegacao para nao haver
+    sobreposição de conteúdo.
+
+2º
+    No container de cada foto com descricao, só é preciso mudar o flexbox para dizer se será normal
+    ou reverse para mudar a ordem de texto e foto. 
+    Basta adicionar a classe e dizer se a flex será normal ou reverse****

@@ -1,0 +1,143 @@
+
+1º site
+
+    O Front-end está muito relacionado com a interface gráfica do projeto. Ou seja, é onde se desenvolve a aplicação com a qual o usuário irá interagir diretamente, seja em softwares, sites, aplicativos, etc. Portanto, é essencial que o desenvolvedor tenha uma preocupação com a experiência do usuário.
+
+    Dev front-end é um termo muito utilizado para identificar profissionais que se especializaram especificamente nessa área. Além disso, apesar de envolver a interface do projeto, o programador front-end não é formado em design. A diferença entre os dois é que o desenvolvedor não desenha visualmente a interface.
+
+    Na verdade, no desenvolvimento front-end, o profissional irá mexer com o código em si, projetando com quais ferramentas o usuário irá interagir. Por esse motivo, é importante ter essa diferença em mente quando falamos sobre o assunto.
+
+-------------------------- --------------------- -------------------------   ------------------------------- ------ ---
+
+2º site
+
+    O desenvolvedor Front-end é uma peça-chave no time de programadores da sua startup. Ele é responsável por todos os recursos de interação entre o usuário e o seu website, aplicativo ou software. 
+
+    Se a interface da sua aplicação está com problemas, o DEV Front-end é acionado para resolver o bug. De modo geral, qualquer projeto precisa deste profissional para rodar. 
+
+    Não é à toa que a empregabilidade do DEV Front-end está em alta. Segundo a pesquisa Stack OverFlow, feita com 70 mil programadores de todo o mundo, em 2022, pelo menos 25,96% dos entrevistados se dizem desenvolvedores Front-end. Aliás, eles ocupam o terceiro lugar da lista, depois de Full-stack e Back-end. 
+
+    Com uma participação tão ativa nas equipes de desenvolvimento, os profissionais desta área precisam ser bem selecionados. Nesse sentido, é importante conhecer melhor suas características, bem como as skills mais requisitadas, para compreender o contexto do recrutamento de um Front-end. 
+
+    O que é um desenvolvedor Front-end? 
+    O desenvolvedor Front-end é o profissional responsável pela criação da interface gráfica de um website, aplicativo ou software.
+
+    Tudo aquilo que terá interação com o usuário, como um formulário para o preenchimento de dados pessoais, é de responsabilidade deste desenvolvedor. 
+
+    Portanto, ele utiliza linguagens de programação, frameworks e bibliotecas para escrever códigos que sejam interpretados pela máquina e expressem a vontade do usuário. 
+
+    Ao clicar no botão de “finalizar compra” em uma loja virtual, ao enviar um e-mail, ao digitar um termo na lupa, devemos saber que há um desenvolvedor Front-end que trabalhou para que isso fosse possível. 
+
+    Mas para entender melhor a sua função, também é interessante conhecer o que é um desenvolvedor Back-end e um desenvolvedor Full-stack, que atuam em paralelo na equipe de programadores. 
+
+    Back-end: ao contrário do desenvolvedor Front-end, o Back-end é responsável por tudo aquilo que o usuário não vê, como os servidores e os bancos de dados. É como se o Front-end fosse a lataria, e o Back-end fosse o motor de um carro.
+
+    Além disso, o Back-end também fica responsável pela estrutura, gerenciamento de conteúdo e segurança do sistema. 
+
+    Full-stack: de modo mais simples, o desenvolvedor Full-stack se explica pela junção das duas funções anteriores. Sendo assim, um developer desta área lida com as mesmas tecnologias usadas no Front e no Back-end. 
+
+    Qual a importância de um DEV Front-end? 
+    Por ser responsável pela linha de frente de um produto que está diretamente ligado à experiência do usuário, o desenvolvedor desta stack é de extrema importância. 
+
+    Afinal de contas, se um site não funciona direito, o usuário irá abandonar o carrinho de compra ou criticar a empresa nas redes sociais, afetando assim as vendas e a imagem do negócio. 
+
+    Então, o RH precisa de subsídios para entrevistar desenvolvedores desta área e recrutá-los com precisão. Nesse contexto, é interessante contar com o apoio do CTO (Chief Technical Officer) ou das lideranças da equipe de TI (Tecnologia da Informação). 
+
+    Isso porque após uma reunião de briefing com eles será possível identificar o perfil da vaga, as necessidades da equipe, as ações cabíveis de vagas afirmativas, entre outras demandas. 
+
+------------ PRINCIPAIS TECNOLOGIAS USADAS------------------------------------------------------------------------------
+
+    ********* Aqui estou usando copiar e colar e depois combinamos melhor as palavras, o importante é a ideia aqui.
+
+    1º HTML
+        O HTML pode ser definido como o esqueleto de uma página web ou formulário de um sistema.
+        Imagine um corpo sem ossos? Difícil né, mas isso seria a web hoje sem HTML. 
+        Conhecido como linguagem de marcação, sem estruturas condicionais e laços de repetição, 
+        é basicamente um conjunto de tags que tem por diretriz uma determinada função que será interpretada 
+        pelo navegador.
+
+        ---------
+
+        O HTML pode ser associado às estruturas de um edifício, ou no caso, a estrutura de uma página
+        da internet ou até mesmo um formulário para um sistema.
+        Imagine uma grande edifício sem sua estrutura? Complicado, não é? Podemos dizer que é muito 
+        parecido com as páginas web sem usar o HTML.
+        Denominado como linguagem de marcação, sem as condicionais e laços de repetição das 
+        linguagens de programação, basicamente um grupo de tags que fazem uma determinada função que 
+        o navegador interpretará.
+
+    2º Css
+
+    Após compreender e organizar seus conhecimentos para o HTML, o próximo passo será compreender 
+    o CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata). 
+    Ele é responsável pela aparência de seu site ou sistema. Se o HTML são os ossos, o CSS será todo o exterior, 
+    pele, roupas e maquiagem, ou seja, pode ser um fator de sucesso ou fracasso do seu produto. 
+
+    --------
+
+    Depois de entender e organizar sua gama de conhecimentos relacionado ao HTML, o próximo nível 
+    será compreender o CSS (Cascading Style Sheets ou Folhas de Estilo em Cascata).
+    O CSS é o responsável pela aparência de um modo geral do seu website ou sistema. Assim como o HTML
+    é comparado aos ossos do ser humano, o CSS será a aparência, a pele, roupa e corte de cabelo do
+    indivíduo, diferenciando-o dos demais. Ou seja, o CSS deixará o seu site cada vez mais único.
+       
+    3º Javascript
+
+    Mas “perae”, se o HTML são os ossos e o CSS é a parte visível, por assim dizer, 
+    onde se encaixa o JavaScript? Simples, o JavaScript é responsável pelo dinamismo do site ou sistema, 
+    ou seja, podemos considerá-lo como sendo os músculos de nosso produto. 
+    Ele irá trazer todo o dinamismo e ação, tão exigido nos dias de hoje. O JavaScript, 
+    também é responsável por realizar a comunicação com o sistema de back-end que é o responsável pela 
+    persistência dos dados em um banco de dados. 
+
+    -------------
+
+    Espera aí!! Se o HTML pode ser considerado como os ossos e o CSS todo o visual da pessoa,
+    o que seria o JavaScript? Bem, o JavaScript fica encarregado pela dinâmica do site ou sistema.
+    Podemos comparar como sendo os nossos músculos. Eles que nos fazem sermos ativos e dinâmicos.
+    O JavaScript também pode realizar a conexão com o Back-end do sistema que é o responsável por todo
+    o armazenamento de dados cruciais e regras de negócio.
+
+
+    FRAMEWORKS
+
+    4º Angular
+
+        O Angular perdeu o JS do nome a partir da sua versão 2.0, pois mudou totalmente a sua 
+        estrutura e é por isso considerado um novo framework. 
+        Indo ao que interessa, o Angular, em 2021 se encontra na versão 12 e possui uma boa documentação online. 
+        Utiliza o formato SPA (Single Page Application), que consiste em aplicações que o usuário não aguarda que a página inteira recarregue, 
+        somente a parte a qual ele está interagindo diretamente.
+        O Angular utiliza como linguagem o TypeScript, que é um “superconjunto” do JavaScript, 
+        ou seja, possui recursos a mais para ajudar quem trabalha com desenvolvimento.
+
+    5º Vue.JS
+
+        O Vue.JS é um framework criado por Evan You, enquanto ainda trabalhava no Google, em 2014. 
+        Ele decidiu pegar todos os conceitos que tinha mais familiaridade no Angular e criou uma versão mais 
+        simples e leve, sem os excessos do seu “irmão” mais velho.
+        Ele tem uma documentação bem completa e traz como principal vantagem ser Open Source mantido pela comunidade. 
+        Além disso, por ser mais simples, sua curva de aprendizado acaba sendo menor.
+        Outra característica do Vue.JS é não utilizar o TypeScript, sendo composto por HTML, CSS e JavaScript 
+        em sua essência. É conhecido por ser um framework progressivo e reativo se utilizando também do conceito SPA 
+        e da atualização dinâmica com o DOM para manter todos os elementos que chamam determinado componente 
+        sincronizados.
+
+    6º React
+
+        O React foi criado pelo engenheiro do Facebook Jordan Walke em 2011, porém só em 2013 que o código foi 
+        aberto para a comunidade. Podemos ver em nosso gráfico na figura 2 que ele tem tido uma subida vertiginosa 
+        desde a sua criação, e desde 2019 lidera como a biblioteca (lib) mais utilizado pela comunidade e citado no 
+        Stack Overflow.
+        É uma lib declarativa que também trabalha com componentes e outras ferramentas, 
+        assim como os declarados anteriormente. O React pode utilizar como ferramenta de build o Webpack, 
+        ele permite usar require() e facilita a utilização de imagens e arquivos locais principalmente em como 
+        serão processados no bundle JavaScript final.
+        Como transpilador temos o Babel que permite se utilizar do JavaScript com o EcmaScript 6 ou 7 quando 
+        a maioria dos browsers ainda utiliza a versão 5. 
+        Para realizar a criação do projeto utilizamos o NodeJS assim como no Angular e Vue.
+        Seus principais pontos positivos estão na extensa comunidade que possui atualmente no ano de 2021. 
+        Trabalha com arquivos JSX ou TSX caso queira utilizar o TypeScript, que permite escrever HTML e CSS em 
+        um arquivo Javascript. 
+        Um ponto que merece atenção é a curva de aprendizado em média ser elevada no 
+        JSX para quem está começando.
